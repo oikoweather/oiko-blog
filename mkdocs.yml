@@ -11,7 +11,9 @@ plugins:
   - meta
   - blog:
      blog_dir: .
-  - search
+     post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower  - search
   - tags
 nav:
   - index.md
@@ -25,3 +27,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 copyright: Copyright &copy; 2023 Oikolab Ltd.
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
