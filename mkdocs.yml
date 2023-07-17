@@ -14,6 +14,7 @@ plugins:
      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower  - search
+     post_url_format: "{slug}"
   - tags
 nav:
   - index.md
