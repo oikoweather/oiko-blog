@@ -2,13 +2,43 @@
 date: 2022-05-27
 categories:
   - Climate Change
+links:
+  - Climate Explorer: https://climate-explorer.oikolab.com
 ---
 
 # Climate Change
 
 For those of us keeping up with climate change related news, there are some numbers that have become familiar. For instance, we know that we should strive to limit global mean temperature to 1.5 deg C.
 
-On the other hand, while many of us feel like things are warmer than when we were little, finding this information is not that trivial. Complicating this is the fact that global warming happens unevenly so everyone's experience may differ.
+On the other hand, while many of us feel like things are warmer than when we were little, finding this information specific to a location is not that trivial. Complicating this is the fact that global warming happens unevenly so everyone's experience may differ.
+
+=== "Anchorage"
+
+    ![Climate Change in Anchorage](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/anchorage.png)
+
+=== "Hong Kong"
+
+    ![Climate Change in Hong Kong](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/hongkong.png)
+
+=== "Madrid"
+
+    ![Climate Change in Madrid](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/madrid.png)
+
+=== "Moscow"
+
+    ![Climate Change in Moscow](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/moscow.png)
+
+=== "Paris"
+
+    ![Climate Change in Paris](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/paris.png)
+
+=== "Phoenix"
+
+    ![Climate Change in Phoenix](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/phoenix.png)
+
+=== "Singapore"
+
+    ![Climate Change in Singapore](https://oikostatic.nyc3.cdn.digitaloceanspaces.com/singapore.png)
 
 <!-- more -->
 
