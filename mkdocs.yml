@@ -20,6 +20,7 @@ nav:
   - index.md
 extra:
   homepage: https://oikolab.com
+  generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/oikoweather
