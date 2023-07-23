@@ -44,6 +44,6 @@ On the other hand, while many of us feel like things are warmer than when we wer
 
 Fortunately, we have access to high-quality data published by ECMWF, where one can look up the history for any location from 1940 with ease. The dataset (ERA5) is created by combining all available sources of observation data, such as weather station and satellite, using a state-of-the-art numerical weather prediction (NWP) model to estimate the state of the atmosphere.
 
-From the data, we can see that Singapore has experienced about 1 &deg;C of warming. This might not seem much, but this is equivalent to an increase in cooling energy demand by almost 20%, based on the concept of Cooling Degree Days (CDD). Hong Kong, also known for its hot climate, has warmed by about 1.5 &deg;C.
+From the data, we can see that Singapore has experienced about 1 &deg;C of warming since 1940. This might not seem much, but this is equivalent to an increase in cooling energy demand by almost 20%, based on the concept of Cooling Degree Days (CDD). Hong Kong, also known for its hot climate, has warmed by about 1.5 &deg;C with CDD increase of about 40% since 1940.
 
 Find more locations using our [Climate Explorer App](https://climate-explorer.oikolab.com)
