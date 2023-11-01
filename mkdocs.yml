@@ -2,7 +2,7 @@ site_name: Oikolab Blog
 theme:
   name: material
   favicon: img/favicon_600.png
-  logo: img/logo-white.png
+  logo: img/logo-white.svg
   features:
     - navigation.selections
   palette:
